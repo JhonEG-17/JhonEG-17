@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello developers and companies Welcome to my profile 👋
 
 <!--
 **JhonEG-17/JhonEG-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
