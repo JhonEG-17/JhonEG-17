@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills:
+
+## Contact
+[!.[linkedIn](https://img.shields.io/badge/LinkedIn-Jhonatan_Espinal-blue)](https://www.linkedin.com/in/jhonatan-espinal-garcia-6bb31721b/)
