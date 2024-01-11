@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/JhonEG](www.linkedin.com/in/JhonEG)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIP, C/C++ y C#**
+- 💬 Ask me about **C/C++, C#, HTML, CSS y JAVASCRIP **
 
-- 📫 How to reach me **jhonataneg@outlook.com**
+- 📫 How to reach me? **jhonataneg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
