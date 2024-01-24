@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoneg-17&label=Profile%20views&color=0e75b6&style=flat" alt="jhoneg-17" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/JhonEG](www.linkedin.com/in/JhonEG)
+- 👨‍💻 All of my certificates are available at [www.linkedin.com/in/JhonEG](www.linkedin.com/in/JhonEG)
 
 - 💬 Ask me about **C/C++, C#, HTML, CSS y JAVASCRIP **
 
