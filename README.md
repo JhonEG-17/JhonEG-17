@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, me llamo Jhonatan Espinal</h1>
-<h3 align="center">Soy un desarrollador en aprendizaje, comprometido y eficiente.</h3>
+<h3 align="center">Soy un desarrollador que siempre esta actualizandose, soy comprometido y eficiente.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhoneg-17&label=Profile%20views&color=0e75b6&style=flat" alt="jhoneg-17" /> </p>
 
