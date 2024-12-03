@@ -87,15 +87,7 @@ Soy un desarrollador que siempre está actualizándose, soy comprometido y efici
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+<br/>    
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
@@ -105,10 +97,10 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=JhonEG-17&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center"></div>
+
 <br />
 
 ----
