@@ -6,10 +6,10 @@
 Soy un desarrollador que siempre está actualizándose, soy comprometido y eficiente.</div>  
   
 
-- 🔭 Actualmente estoy trabajando como desarrollador freelance  
+- 🔭 Actualmente estoy trabajando como desarrollador web en ETN Turistar Lujo
   
 
-- 🌱 Actualmente estoy aprendiendo MongoDB  
+- 🌱 Actualmente estoy aprendiendo Python  
   
 
 - ❓ Pregúntame sobre cualquier cosa relacionada con la pila MERN y las tecnologías relacionadas  
