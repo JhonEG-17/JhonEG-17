@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg](https://jhoneg-17.github.io/JhonDev/assets/img/Background/Background-min.webp" />
+<img src="https://jhoneg-17.github.io/JhonDev/assets/img/Background/Background-min.webp" />
 </div>  
 
 ### <div align="center">¡Hola! 👋 , me llamo Jhonatan Espinal
